@@ -1,2 +1,2 @@
 # predicting-wine-quality
-Predicting wine quality using multiple regression models and comparing their R² scores to identify the best-performing model.
+This project explores the winequality-red dataset using various regression models including Linear Regression, Polynomial Regression, Random Forest, and Decision Tree. The goal is to evaluate and compare their performance using R² scores to determine which model best predicts wine quality based on its physicochemical features.
